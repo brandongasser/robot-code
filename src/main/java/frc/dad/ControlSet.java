@@ -11,7 +11,6 @@ public class ControlSet {
         super();
         this.rightJoystick = rightJoystick;
         this.leftJoystick = leftJoystick;
-        System.out.println("Hi");
     }
 
     /**
